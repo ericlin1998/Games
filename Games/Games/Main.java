@@ -51,6 +51,7 @@ public class Menu extends JFrame{
 		b2.gridy = 1;
 		contentPane.add(unoGame, b2);
 		
+		//continue
 		numGame.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e){
             	
